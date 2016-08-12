@@ -4,3 +4,6 @@
 [![Website](https://img.shields.io/badge/Website-oyvkva.com-green.svg)](http://oyvkva.com)
 
 This AppleScript translates PSDs into all Apple App store languages and places the translations in the correct language folders.
+
+You also need the Translate Shell script:
+https://github.com/soimort/translate-shell/blob/develop/README.md
